@@ -18,8 +18,8 @@ I created this website to practice tools I learned in the internet systems cours
 
 ### Screenshot
 
-<img src="https://github.com/IngridyCandido/SurveyForm/blob/main/src/imagens/Captura%20de%20tela%202023-01-28%20192516.png"/>
-<img src="https://github.com/IngridyCandido/SurveyForm/blob/main/src/imagens/Captura%20de%20tela%202023-01-28%20192622.png"/>
+<img src="https://github.com/IngridyCandido/Mundo-Novo/blob/main/M%C3%B3vel.png"/>
+<img src="https://github.com/IngridyCandido/Mundo-Novo/blob/main/tablet%20e%20not.png"/>
 
 ### Links
 
